@@ -1,5 +1,5 @@
 {
-    "name": "kirschbaum-development/nova-inline-select",
+    "name": "suresale/nova-inline-select",
     "description": "An inline select field for Laravel Nova apps.",
     "keywords": [
         "laravel",
@@ -26,7 +26,7 @@
     "require-dev": {
         "codedungeon/phpunit-result-printer": "^0.26.2",
         "orchestra/testbench": "^4.0",
-        "phpunit/phpunit": "^8.3",
+        "phpunit/phpunit": "9.5.4",
         "laravel/nova": "*"
     },
     "autoload": {
